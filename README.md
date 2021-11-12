@@ -1,4 +1,3 @@
-# mySQL
-Repo storing what i studied about mySQL and its tutorial
+### mySQL
 
-For each problem is solution that i used to pass.
+What i did to get 5 star skill SQL on hackerrank.
